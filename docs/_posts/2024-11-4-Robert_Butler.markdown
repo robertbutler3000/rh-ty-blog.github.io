@@ -84,15 +84,11 @@ Finally i am writing this blog and am going to the pool room to end thursday.
 ## Friday
 ![Red Hat Office](https://nwscdn.com/media/wysiwyg/3kf/Pool-Table.jpg)
 
-**This is the text area where you can enter your blog details for Friday**.
+For our last day here at Red Hat we all did some robot programming with Adam. This was for our mini RC cars that we were given. We had two microbits and we had to code ech of them to do certain tasks like break, go forward, turn left and right- myself Jack and Alex couldnt get the car to turn left so our racing went as well as you would yhink- Teribble. This was probably one of my favourite activities though as there was so much creative freedom with it. All 4 teams had completely different ways of steering the car. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque ultrices dolor id consequat ullamcorper. Donec sed hendrerit nibh, sit amet pharetra risus. Aliquam fermentum nisi ut nibh maximus mattis quis in ex. Etiam lobortis ligula a lacinia placerat. Cras vehicula nisi in mauris pretium ultricies. Suspendisse urna sapien, facilisis non fringilla eget, dapibus eu est. Duis placerat est eget eleifend vulputate. 
+For lunch we got pizzas from Dominos these were delicious and a great way to end the week. the lads i was with and all the staff helping us made the week.
 
-* Mauris laoreet fermentum ante, non pulvinar lectus. 
-* Integer pellentesque velit sem, vitae feugiat ex ultricies ut. 
-* Fusce ac scelerisque nisi. Nunc sollicitudin a neque eget lobortis. 
 
-Pellentesque aliquam lobortis augue, ut pulvinar elit viverra non. Vivamus dapibus lorem lorem, non viverra elit commodo eget. Duis auctor at nulla a gravida. Phasellus finibus orci a elit faucibus, nec maximus massa euismod.
 
 ---
 
